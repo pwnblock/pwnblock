@@ -11,5 +11,5 @@
 #### Capture-The-Flag 🚩
 | Achievement | Year |
 |---|---|
-|1st place in GuideM HackTheKingdom CTF|2020|
-|3rd place in HackForGov 1 Finals Competition|2019|
+|1st place in GuideM Hack The Kingdom CTF|2020|
+|3rd place in Hack For Gov (H4G) 1 Finals Competition|2019|
