@@ -1,6 +1,3 @@
-
-> “Cybersecurity is a race without a finish line.” — Nicole Eagan
-
 | Web3 Security ⛓️‍💥|
 |---|
 - ⁉️
