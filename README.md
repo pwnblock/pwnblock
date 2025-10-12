@@ -5,8 +5,8 @@
 | Web2 Security 🌐|
 |---|
 - Bronze HackerPlus League in Meta Whitehat Program - 2022
-- Rank #57 on Meta Whitehat Program Hall-of-Fame (HoF) - 2021
-- Rank #100 on Meta Whitehat Program Hall-of-Fame (HoF) - 2020
+- Rank #- on Meta Whitehat Program Hall-of-Fame (HoF) - 2021
+- Rank #- on Meta Whitehat Program Hall-of-Fame (HoF) - 2020
 
 | Capture-The-Flag 🏴‍☠️|
 |---|
